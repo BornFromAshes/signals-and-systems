@@ -1,4 +1,4 @@
-# Signals-and-Systems
+# Signals and Systems
 In this project, we want to get a grasp on how to implement and plot signals, Fourier series and so on.
 ## Description
 Using the matplotlib library, we'd like to plot the following continuous signals for the interval [-10,10]. (Considering drawing points with 0.01 distance) <br>
